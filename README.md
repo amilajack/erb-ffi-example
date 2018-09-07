@@ -1,5 +1,7 @@
 # erb-ffi-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/erb-ffi-example.svg)](https://greenkeeper.io/)
+
 ## Setup
 
 ```bash
