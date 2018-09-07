@@ -1,5 +1,7 @@
 # erb-ffi-example
 
+:bulb: See this commit for all the notable changes :bulb:
+
 ## Setup
 
 ```bash
